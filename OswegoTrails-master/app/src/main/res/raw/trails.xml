@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<trails>
+    <trail>
+        <trailId>00</trailId>
+        <trailName>Albion Cross Trail</trailName>
+        <location>NYS Rte. 13, Town of Albion</location>
+        <description>This trail is 2.3 miles long and is a multi-use facility. It is also used by snowmobile and ATV users. The trail commences at the intersection of NYS Route 13 and trends northwest to the hamlet of Altmar.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>00</image>
+    </trail>
+    
+        <trail>
+        <trailId>01</trailId>
+        <trailName>Altmar State Forest Trail</trailName>
+        <location>NY Route 13 to either Towsley Road or Albion Cross Road</location>
+        <description>Altmar State Forest is part of the Eastern Lake Ontario Unit Management Plan, which is currently being written by DEC staff. A Unit Management Plan (UMP) guides the DEC's land management activities on several geographically related forests for a ten-year period, although a number of goals and objectives in the plan focus on a much longer time period. Each UMP addresses specific objectives and actions for public use and forest management
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>30</image>
+    </trail>  
+    
+    
+    <trail>
+        <trailId>02</trailId>
+        <trailName>Amboy 4H Environmental Education Center</trailName>
+        <location>NYS Rte. 183, Amboy</location>
+        <description>3 miles hiking trails through 150 wooded acres. 3.5 miles north of Amboy Center.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>01</image>
+    </trail>
+    
+    
+    
+    <trail>
+        <trailId>03</trailId>
+        <trailName>Breitbeck Park Trail </trailName>
+        <location>NYS Rte. 183, Amboy</location>
+        <description>Scenic Park that overlooks Lake Ontario and provides a goregous view of the harbor and lighthouse. Many concerts and events are hosted during the summer, the capstone being the Oswego Harbor Fest. 
+        </description>
+        <rating>1</rating>
+        <bike>1</bike>
+        <image>29</image>
+    </trail>
+    
+    
+    
+    <trail>
+        <trailId>04</trailId>
+        <trailName>Chateaugay State Forest</trailName>
+        <location>Co. Rtes. 2 and 50, Orwell</location>
+        <description>Network of 7 miles marked trails and 8 miles unplowed roads for hiking and cross-country skiing. 7.5 miles east of Pulaski.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>02</image>
+    </trail>
+    <trail>
+        <trailId>05</trailId>
+        <trailName>Deer Creek Marsh</trailName>
+        <location>Rainbow Shores Road, Richland</location>
+        <description>1,195 acres of wetland and uplands between Lake Ontario and NYS Rte. 3 in town of Richland. Viewing tower, parking area, handicapped access. Scenic vistas, bird watching, cross-country skiing, snowshoeing.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>03</image>
+    </trail>
+    <trail>
+        <trailId>06</trailId>
+        <trailName>Derby Hill Bird Observatory</trailName>
+        <location>Sage Creek Road, Mexico</location>
+        <description>Prime location for viewing migrating birds of prey and waterfowl. More than 40,000 counted annually. Owned by Onondaga Chapter of the NYS Audubon Society. Weather/hawk hotline, early March to late May: 315-963-8291. Off NYS Rte. 104B in Town of Mexico.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>04</image>
+    </trail>
+    <trail>
+        <trailId>07</trailId>
+        <trailName>Fallbrook Recreation Center</trailName>
+        <location>Thompson Rd., Oswego</location>
+        <description>Trails connect to Rice Creek Field Station trails, for a combined total of 20 miles of trails.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>05</image>
+    </trail>
+    
+    
+    
+    <trail>
+        <trailId>08</trailId>
+        <trailName>Fort Ontario Historical Site</trailName>
+        <location>1 E 4th St, Oswego, NY 13126</location>
+        <description>Fort Ontario is a historic fort situated by the City of Oswego, in Oswego County, New York in the United States of America. It is owned by the state of New York and operated as a museum known as Fort Ontario State Historic Site.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image></image>
+    </trail>  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <trail>
+        <trailId>09</trailId>
+        <trailName>Great Bear Springs Recreation Area</trailName>
+        <location>City of Fulton and Town of Volney</location>
+        <description>Comprised of 236 acres owned by the City of Fulton and the 78 acre Town of Volney Park.
+        </description>
+        <rating>1</rating>
+        <bike>1</bike>
+        <image>06</image>
+    </trail>
+    
+    
+    
+    <trail>
+        <trailId>10</trailId>
+        <trailName>Hall Island State Forest Trails</trailName>
+        <location>Redfield, Oswego County</location>
+        <description>Hall Island State Forest is located along the south shore of the Salmon River Reservoir It is a great place to visit to enjoy recreational activities such as: hunting, hiking, snowmobiling, bird watching, nature viewing, fishing, and camping. The property borders the southern shore of the Salmon River Reservoir.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>31</image>
+    </trail>  
+    
+
+    
+    <trail>
+        <trailId>11</trailId>
+        <trailName>Happy Valley Wildlife Management Area</trailName>
+        <location>NYS Rte. 104, Albion, Williamstown; Co. Rte. 26, Parish, Amboy.</location>
+        <description>8,645 acres of uplands, wetlands, ponds. Hiking, birding, canoeing, cross-country skiing, snowshoeing. No off-road motor vehicles allowed.
+        </description>
+        <rating>1</rating>
+        <bike>1</bike>
+        <image>07</image>
+    </trail>
+    <trail>
+        <trailId>12</trailId>
+        <trailName>Independence Park</trailName>
+        <location>Riker’s Beach Rd., Scriba</location>
+        <description>The park, owned by Oswego County, has two miles of hiking trails, .8 mile of which are wheelchair accessible, on 47.3 acres adjacent to Lake Ontario.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>09</image>
+    </trail>
+    
+    
+    
+     <trail>
+        <trailId>13</trailId>
+        <trailName>Kasoag State Forest Trail</trailName>
+        <location>Williamstown, Oswego County</location>
+        <description>Kasoag State Forest encompasses 909 acres. While it is remote and somewhat primitive, it is a great place for activities that can be enjoyed in a remote forest setting such as hiking, hunting, trapping and fishing.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>32</image>
+    </trail>  
+    
+    
+    
+    <trail>
+        <trailId>14</trailId>
+        <trailName>Klondike State Forest</trailName>
+        <location>Amboy</location>
+        <description>875 Acres. 5 miles of ungroomed trails. Surrounded by numerous ponds. Off NYS Rte. 69, corner of Tanner and Starks Rds., Amboy.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>10</image>
+    </trail>
+    <trail>
+        <trailId>15</trailId>
+        <trailName>Littlejohn State Wildlife Management Area</trailName>
+        <location>Co. Rte. 17, Boylston and Redfield</location>
+        <description>8,020 acres of uplands and wetlands, with 18.8 miles of trails. Hiking, birding, cross-country skiing, and snowshoeing.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>11</image>
+    </trail>
+    <trail>
+        <trailId>16</trailId>
+        <trailName>Mexico Point Park</trailName>
+        <location>Mexico Point Drive, Mexico</location>
+        <description>Nature trail. Medieval-style cottage open for tours by appointment. Off NYS Rte.104B.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>12</image>
+    </trail>
+    
+    
+
+    <trail>
+        <trailId>17</trailId>
+        <trailName>O'Hara State Forest Trail</trailName>
+        <location>Williamstown and Orwell, Oswego County</location>
+        <description>O'Hara State Forest encompasses approximately 2,398 acres of land. Activities enjoyed here include hunting, hiking, trapping and nature observation.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>33</image>
+    </trail>  
+    
+    
+    
+    <trail>
+        <trailId>18</trailId>
+        <trailName>Oswego County Forest Land</trailName>
+        <location>NYS Rte. 13 &amp; Ball Rd., Williamstown</location>
+        <description>There is a .75 mile trail on 112.36 acres. The property contains both pine plantations and naturally regenerated deciduous woods. The trail can be used in all four seasons.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>13</image>
+    </trail>
+    <trail>
+        <trailId>19</trailId>
+        <trailName>Oswego County Nature Park at Camp Zerbe</trailName>
+        <location>NYS Rte. 104, Williamstown</location>
+        <description>Offers nature enthusiasts hundreds 364 acres of wilderness, and includes beautiful and unique glacier-made “kettlehole” lakes which attract a variety of wildlife. The park features 3 miles of marked nature trails, interpretive center, pavilion, educational exhibits, and a meeting center. Hiking, canoeing, birding, cross-country skiing, snowshoeing. Camp Zerbe is open from dawn to dusk. The meeting center and interpretive center are open by appointment. Pets and motorized vehicles are not allowed in the park.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>14</image>
+    </trail>
+    <trail>
+        <trailId>20</trailId>
+        <trailName>Oswego County Recreation Trail</trailName>
+        <location>Maple Avenue, Volney to NYS Rte. 49, Cleveland</location>
+        <description>26 miles. Ideal for hiking, biking, horseback riding, cross-country skiing, snowmobiling. Parking access at Co. Rte. 6, Volney.
+        </description>
+        <rating>1</rating>
+        <bike>1</bike>
+        <image>15</image>
+    </trail>
+    <trail>
+        <trailId>21</trailId>
+        <trailName>Oswego East and West Riverwalks</trailName>
+        <location>City of Oswego</location>
+        <description>Paved walkways stretch along both sides of the Oswego River from the harbor to Lock 7. The paths are connected by a pedestrian bridge that crosses the river near Utica Street.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>16</image>
+    </trail>
+    <trail>
+        <trailId>22</trailId>
+        <trailName>Rice Creek Biological Field Station</trailName>
+        <location>Thompson Road, Oswego State University</location>
+        <description>An instructional and research unit of the State University of New York College at Oswego, the state property consists of the 26-acre Rice Pond surrounded by 400 acres of land in several stages of growth from open fields to mature forests. Trails provide access to the various habitats around the station. The building contains two lab/classrooms, a lecture room, and exhibit areas with an indoor viewing gallery. Hiking, birding, exhibits, lectures and workshops. Rice Creek Field Station is open weekdays from 9 a.m. to 5 p.m. Trails are open from dawn to dusk.
+        </description>
+        <rating>1</rating>
+        <bike>1</bike>
+        <image>17</image>
+    </trail>
+    <trail>
+        <trailId>23</trailId>
+        <trailName>Richard A. Noyes Bird Sanctuary</trailName>
+        <location>Nine Mile Point Rd., Town of New Haven</location>
+        <description>Over two miles of trails on nearly 90 acres along Lake Ontario. The property is owned by the Onondaga Audubon Society.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>18</image>
+    </trail>
+    <trail>
+        <trailId>24</trailId>
+        <trailName>Sage Creek Trail</trailName>
+        <location>County Rte. 41, Town of Mexico</location>
+        <description>The trail is an abandoned railroad right-of-way maintained for multi-use recreation. The trail begins at County Route 41 in the Town of Mexico and goes 4.7 mile north to Atkinson Road in the Town of Richland.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>19</image>
+    </trail>
+    <trail>
+        <trailId>25</trailId>
+        <trailName>Salmon River Falls Unique Area</trailName>
+        <location>Falls Road, Orwell</location>
+        <description>110-foot waterfall provides a breathtaking view any time of the year. Areas of gorge are restricted and visitors should use extreme caution. Footpath to the bottom of the gorge open May 1 to Nov. 15. Owned by NYS DEC. 1.4 miles northeast of Co. Rte. 22.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>20</image>
+    </trail>
+    <trail>
+        <trailId>27</trailId>
+        <trailName>Sandy Island Beach State Park</trailName>
+        <location>3387 Co. Rte. 15, Sandy Creek</location>
+        <description>11 acres of sandy beach on Lake Ontario. Part of the unique Eastern Lake Ontario Dune and Wetland System. Swimming, fishing, birding, hiking, canoeing, kayaking.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>23</image>
+    </trail>
+    <trail>
+        <trailId>28</trailId>
+        <trailName>Selkirk Shores State Park</trailName>
+        <location>7101 NYS Rte. 3, Pulaski</location>
+        <description>980-acre multiple-use park overlooking Lake Ontario. Swimming beach, camping, fishing, hiking, biking, snowshoeing, cross-country skiing, snowmobiling. Includes day-use picnic area, pavilions, nearby Pine Grove boat launch, and woodland trail.
+        </description>
+        <rating>1</rating>
+        <bike>1</bike>
+        <image>24</image>
+    </trail>
+    <trail>
+        <trailId>29</trailId>
+        <trailName>Sunset Bay Park</trailName>
+        <location>E. Lake Rd., Scriba</location>
+        <description>1 mile of marked trails. Located on 95 Lake Rd Oswego, New York 13126
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>25</image>
+    </trail>
+    <trail>
+        <trailId>30</trailId>
+        <trailName>Trout Brook State Forest</trailName>
+        <location>Off Co. Rte. 22, Bremm Road, Sandy Creek and Boylston</location>
+        <description>Trout Brook State Forest encompasses 622 acres. It is secluded and scenic and is a great place for recreational activities such as hunting, trapping and fishing. There are no trails on this state forest. Trout Brook, after which the forest is named, makes its way along the western edge of the property.
+        </description>
+        <rating>1</rating>
+        <bike>0</bike>
+        <image>27</image>
+    </trail>
+    <trail>
+        <trailId>31</trailId>
+        <trailName>Winona State Forest Recreation Area</trailName>
+        <location>Center Road, Boylston</location>
+        <description>Winona Forest, located on the boundary of southern Jefferson County and northern Oswego County in Northern New York, is a 9,233-acre state forest that offersmany recreational opportunities, including: snowmobiling, snowshoeing, hiking,cross-country skiing, mountain biking, hunting, fishing, trapping, dog sledding, birdwatching and horseback riding.
+
+            Winona Forest is one of the snowiest places east of the Rockies with an average snow fall of 250 inches per year! In winter, the prevailing westerly winds move cold winter air over the warm water of Lake Ontario producing massive lake effect snow falls on the Winona Forest in the Tug Hill area.
+
+            Parking on north side of Center Road at Wart Road intersection and Bargy Road intersection, in Boylston.
+        </description>
+        <rating>1</rating>
+        <bike>1</bike>
+        <image>28</image>
+    </trail>
+</trails>

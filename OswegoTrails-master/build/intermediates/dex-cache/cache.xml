@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_544b9abb228570e3dbd4db5e9ad86d8d75241b6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_86d8c5547e33106080ac959cbdc2e71448fef559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_a6351b9f0afb8d980458d0cb6478f35208a47edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_1b75d16ba386dc468e847573da26af043b22c609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_69616b3e02d1eeb664180393833a606aa7840bc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_3abfe1661a1a42d3449aac3351ae1d23119429e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_914c817dbee5941c45b094c9177c41a4d9f08978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_0085d001231fa9c6d09054b2b031a6cefed88a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_22763ec738b29ec78a17729cd043a7eb77b0f734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_bc9594b912394e5b838d9eb1b16658cc1eb53cf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c322d7a02203b5f891a723d53b2cba3542b483a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_5e664e407d053f84b8be8facfad89ae70fd52e0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_83244c43351744cc4d93da2cea7a387d703cf1f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_b67253bb724de72a0c6c97223095c2a76258524f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_e884e6d0aedb8e1c981b74eee7f439039257a328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_f218105859e2c3a056dd313d52625f51347fd594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a19bd4e3c8728be4540f0e31c45f1520371ff354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_0fbc02e0659b1af421bce475e77192ebb2a53c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_fdd445cb80c7be433fc44d114369ccc1d16b7956\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_ce65f030ab954a754b6607c9b65e3a8a4f80693b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_6cc08d327c39f3c4e95ea52de7847c13afe9e46d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_0fc19f2dbe468208d4c53ece1dbdff149c7c1bc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_13d6e0dda4addcb277450063bac006562091997b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_1352d856a20810ffc1ac3d721cc584e78d716462\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_112e1f47806cff5d236ab2e6cb94ad33a3a2762f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_16649af9872913db60d622cd01d7148526cb6b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_f89f778c31c277a7b4768bc732312a09d784e48e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_7b625977a434259dff105b2fdac8d30c13c3bab0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_08df21af4652f4ddfb19b0e93a73b1ea1510c6be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_12e282a6940edf72400fc4fcf8f43e46d6fdea0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cb63b5359ea5a192168d872a4fb409bdf42f6ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_f1c57d1042141050f55e808c7550eae7aaa63e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_7bcbcdb177a2aff06698d61df269642ef6c0ab5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_10e71e42d53b607fb18f023bb50da912ffa65f81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_5a95f3b91c50c2fa12cc3e57f9f84a2c470c689f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_5c0d7bf7c6337fcc4d0ca4f5f592e0c531fac0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_94145f9f429472f03ef6be239a6951dbb1af0b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_c36193399cb970f704b701b8c860682dc1eeda5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_041ed7a5c97720e4a33434b1036673c4ab62b37b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_aed64651b1f78baaff91918872e8224c1d30f09c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_3b22edb43362458bddba9f166504e570ad8939c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_cd9a0050d95455061fe8c6e9e1065443a3854e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_9d4df32aad1cbe2f13a55f1ec47eb270585301e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_36609ce77ccfb88255d38f7da8ff4d2e5bccac98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_f7934dcc07691408fe3cc01abd695039cfcd941d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_bcf01a4426b1fdd32135a2eee699c09b1ed50073\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_512829c317096b8032791b6ca4ef402c34a265e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_144a9b9f6689722cf6f48617a243e5482f5a406b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4f7a21fe9238a62040a927864c3bf00dd563ebf3">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ff277c6d4baee48a6e2611ae958d28b3e64d0240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_1f07a2f9bbf469869545492d9988280b873783cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="505404bd8e56e4269d183085d4234847740f4114">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4943e390d35a410fc7a5dafde7d6258391421c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_3aa751e34d478d3099f02da1a260b11b49ccf576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_077e5d1d2c1b519fc27e2e2730a1b6300834d262\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_4e2c3db6d7b67d04756b3e4cb91a8abff949bca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_9a08fb3d96eeabfed9a2f19676751678eadaabc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_323fe592524822272bbf24a8d1fd31f26e072eed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_ece7ac272ed127d61914dbb658b22b35462ed2dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_4cab3288ed5a15bb8693761765a219e02a0b3ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_5ac920931a4d6617373fab45993c415d1256d2c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_2faaa227dd71b35c44a4f93a3185c1f0cad3096d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_ad62945d11423dc9303a029a7d47d6815cfae1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_4cc6df64e6a2aa8fea1bcb6c9d13fbdc208884ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f01795f952914e6fa30723aec2ca614817722fde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_d0a4595d487780ddc92e0d7a3518df703f20c60f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_0f003aaa60d65ade36f51d54c48f0c11ded3658c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_9929469efad39e0383f444d511b89ca72aa6e600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_e3541acbfd30597f1e04cbdd5621f9971b5d7b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_e98fbf71452249f7e8ffd8b14fe5a60f7ff9a951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_0375dcfd1bdf8a2eef6d79eed7259a51d548b322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_ed37266144f3a686d58c1d0ab884507360597548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_37e15aa6abf0f225a10b1a7a7914b3c5ede49528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_da30d1c211a40bbc3d6ff537874ecc00b5fde17a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_915eeb2e8fa862d31398e0b6218a23272a4c32dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_4142d057b044b649fffbee94c068f6c54f6f9419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_246076dcade389a3486e4c340e6b3107e9bdcf3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_957f08b909f2d726377b30c99d9be8aac4c81af1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_47601b8de8afb648d264badc3fd7a3836eb5519c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_b36baafa0c9c1968042dd5c62b0e871129e91651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_ac5a078e90267026af533038e54307d3c743b975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_faeb6b1339ca1060b097d34383f671ea8869ae65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_68db43b1258bf0618bc39f07dcf58ea9d3b6ed0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_c4165763299c6684cfac5bddaa7d18c7692cb1be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_b05f0ca0b093f0edc7f65ee784a45d1912c48307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c34384817bcd47bcbb3c2eeb9fd5e72c25b3415">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_75b70f56f7fde72b406d9a97dd76557ba8838c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_b12f560a2ae29dd4491771d3fd3caf31fc339daa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_81a7c7c5b6994d2e2fd0d70c3e1913ca38c08f37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_ce30c15aa12b6005f356c7a2b560eb2289a426a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_a9685a35c24c2a48b6d4ef0a9502dda72694a271\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bfd806945a94dc392b7fa54c6a5ca29d34468d71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f613fa335796b05bc5a043a1dea83ba0fc40c2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_6ccbaec2414d7c69f2252235f7e0a75a63d963e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_7eb81d73be0aa82ac649034a9f5bcd8b5070d720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_f0233a08b4a502cd53332c8c612e85a29a9d109c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_9c8803b89e800c901b9e477255255c4988296439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_29bd16bc9236affca8460a85b36ba3827a64ebf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_21577908c3aa05b68cf036eb6c246e4830ef7f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_04d9d63dbcd937b40e02aa8fca99723bc64884ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_98947715576d7215770d29b14fdde4a712415224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_405331506e7b81aad92a4a8fe441ff4472205c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_70e76c22e9e122bfb649b25bbfd6b068fc423aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_0bb9bbb1483e9d57a88cbfe8b33725cfcab6e032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_e69d4998fa0a21a278733a3b962de8783f3a0280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_5d8f1ebac116a3fc4cf66670a10c2eda0c46920b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_8e73bef128274adc3668b2b443f5d50a4e21cb13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_6b1b29646472a34b572f5618f19339df044a4a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_26c14f3e067ad84b3ecd245e7bc2e68180d24723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_8624d0656bd09881334806e4cde90ae230e24be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_b137612e99d1c6550a02ec5e8954e5d36c772b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_89378a343c3b06ffb21f089d606d8515e491c843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_5b8552bde9f70468829b996fc8c373e58a6b67e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_da5eb904795202c7e14c7e373002e68bdcb575fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_85ebdd71b08995b0ab61c57fde556c7226b255de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_239c39ae1a735391943c4d532a5ed2b972b9c72c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_fcf2ebe84f4556f7774a9f2f0a319b93903c81a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_9371bc3968df1fec449e5050d035069cda5f1cbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_103d7f0db6e30fd14c65174005273f2040bb9f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_75218e0f486b7f99176e12fb9fbac4629720c114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_c83886394d6e3cd12429af55264317619e97440d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_e815cdc224425dd91d4c7fcb8d2240a025433f80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_7dfae469baddc84ff6592494fe03706b0b27d299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_ac56c2e7b5dc59cb495330821e76af3b50073477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0cba02c449d35968943ff5740f155d37cc16dee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_ab2d6aeff41fc1b1a194e8242a5a0dc13e255337\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_edcddd6bf0440a460e3f081b3dcbc4596aeecf9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_4e9b31599aa2d8d2bd76c4d13b94bf1f804bb5af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_cea853c5bc71188dad3a22ab87b53a3966e3f3c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_c946bc92f956c96a1989df04f1920f02cb906c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_9103b815923a244900f0f5230d59396b162bb507\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_bc82ee0356c6bae02fedbf2c5eb2c2aed60aafec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_a6cf57e93cd9d1e698d6592216c3683298841388\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_973626e498cb862dcec4d410aa83e41a529063bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4b64d983fcab2abfc710503531364eb26c0adf0">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_decacde906f2198f2a9cf6b80e2af8a4d5c24e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_f38359cad4924cc5646a0d7291cf728d24d0cc52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_73a5b327fb5fbc968bc4ff46c8d32c374cfb898e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_bc2455cd3eb559e8b891c4bbb916d10686eac2c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_50bd31e071bf0b037e94d3d0d872d0d3e0e1042f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_71f49cd41c2519af9392a198cccbfcc1104ec644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_54fd94567599c215fa86e09168106ca5a8c56026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_bb2ee9a2e5faaefd9e225525b1dafe5e9747c7f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_cf94913e8cc75ef202184443e5c04ae27265fb2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_232a027a9a8edfeb9a5501bf07ce47608197803b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_8c5295b749115d7d72ffa57a1a1c3d291b73bf20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Miguel\Desktop\OswegoTrails (2)\OswegoTrails\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_6cb56606a4e04670d0e3d73588afa274e22ce8ad\classes.dex" />
+    </item>
+
+</items>

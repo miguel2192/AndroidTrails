@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Oswego Trails</string>
+    <string name="title_activity_map_screen">Map</string>
+    <string name="title_activity_trail"></string>
+    <string name="alphanumeric">A-Z</string>
+    <string name="rating">Rating</string>
+    <string name="type">Type</string>
+    <string name="search">Search</string>
+    <string name="title_activity_journey"></string>
+    <string name="query">Query</string>
+    <string name="bike">Bike</string>
+    <string name="temperature">temperature</string>
+    <string name="condition">condition</string>
+    <string name="location">location</string>
+</resources>

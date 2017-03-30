@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nuke">
+
+    <ImageView
+        android:text="@string/temperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/purple"
+        android:layout_marginBottom="14dp"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:text="@string/condition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/conditionTextView"
+        android:textSize="18sp"
+        android:layout_below="@+id/weatherIconImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:text="@string/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/locationTextView"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        android:layout_below="@+id/conditionTextView"
+        android:layout_alignLeft="@+id/conditionTextView"
+        android:layout_alignStart="@+id/conditionTextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/temperatureTextView"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:typeface="normal"
+        android:text="Temperature"
+        android:layout_below="@+id/weatherIconImageView"
+        android:layout_alignRight="@+id/conditionTextView"
+        android:layout_alignEnd="@+id/conditionTextView"
+        android:textColor="@android:color/black" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/na"
+        android:id="@+id/weatherIconImageView"
+        android:layout_marginTop="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
